@@ -167,16 +167,9 @@ Customers were segmented into:
 
 ---
 
-## 🧑‍💼 How to Explain This Project in Interview
-
-> “This is an end-to-end data analytics project where I used Python for data cleaning and feature engineering, SQL for business analysis, and Power BI for visualization. I analyzed customer shopping behavior to identify revenue drivers, high-value segments, and subscription impact, and finally provided actionable business recommendations.”
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates strong **data analytics fundamentals**, real-world business thinking, and hands-on experience with **SQL, Python, and Power BI**. It is well-suited for showcasing skills in **Data Analyst, Business Analyst, and BI roles**.
 
 ---
 
-⭐ *If you like this project, feel free to star the repository!*
